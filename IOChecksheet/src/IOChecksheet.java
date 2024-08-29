@@ -11,7 +11,7 @@ public class IOChecksheet {
 		double biggerRealNum;
 		char letter;
 
-		/*
+		
 		//word
 		System.out.println("Enter multiple words");
 		word = input.nextLine();
@@ -42,7 +42,7 @@ public class IOChecksheet {
 		System.out.println("\nEnter a character");
 		letter = input.next().charAt(0);
 		System.out.println("Here is your character: " + letter);
-		*/
+		
 		
 		//float adder
 		realNum = 987654321.987654321f;
