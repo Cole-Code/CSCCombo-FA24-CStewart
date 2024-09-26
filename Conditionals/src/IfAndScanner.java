@@ -67,7 +67,7 @@ public class IfAndScanner {
 	}
 
 }
-
+// First attempt, above code is optimized versus this redundant code.
 /*	if (num1 > num2 && num1 > num3) 
 if (num2 > num3){
 high = num1;
