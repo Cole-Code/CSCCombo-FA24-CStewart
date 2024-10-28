@@ -23,7 +23,7 @@ public class Nests {
 		high = input.nextInt();
 
 //LOOPS!
-		if (high - low >= Math.abs(2)) {
+		if (high - low >= 2) {
 		for (i = 0; i <= playTimes; i++) {
 		//while (playAgain.equals("Y")) {
 		int randNum = rand.nextInt(high - low) + low;
